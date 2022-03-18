@@ -2,3 +2,10 @@ h1 {
     color: red;
     font-size: 55px;
 }
+
+h2 {
+    font-size: 18px;
+    color: blue;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
